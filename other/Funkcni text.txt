@@ -1,0 +1,184 @@
+A30.0		=LEP+RM1-GF1:DI4	Davkovac A1 GF1 - reset chyby
+A30.1		=LEP+RM1-GF2:DI4	Davkovac B1 GF2 - reset chyby
+A30.2		=LEP+RM1-GF3:DI4	Davkovac A2 GF3 - reset chyby
+A30.3		=LEP+RM1-GF4:DI4	Davkovac B2 GF4 - reset chyby
+A30.4		=LEP+RM1-PL1:4	Majak hlavni zelena
+A30.5		=LEP+RM1-PL1:1	Majak hlavni oranzova
+A30.6		=LEP+RM1-PL1:2	Majak hlavni cervena
+A30.7		=LEP+RM1-PL1:5	Majak hlavni houkacka
+A31.0		=LEP+I1-H1:x1	I1_Signalizace START
+A31.1		=LEP+I1-H4:x1	I1_Signalizace KONEC PAUZY
+A31.2		=LEP+I1-H6:x1	I1_Signalizace ZATVRDNUTY MIXER
+A31.3		=LEP+I1-H7:x1	I1_Signalizace ODBRZDENI
+A31.4		=LEP+I1-X1:19	I1_Signalizace rezerva
+A31.5		=LEP+I1-X1:20	I1_Signalizace rezerva
+A31.6		=LEP+I1-HL1:4	I1_Majak zelena provoz
+A31.7		=LEP+I1-HL1:2	I1_Majak zluta pauza
+A32.0		=LEP+I1-HL1:1	I1_Majak cervena chyba
+A32.1		=LEP+I2-H1:x1	I2_Signalizace START
+A32.2		=LEP+I2-H4:x1	I2_Signalizace KONEC PAUZY
+A32.3		=LEP+I2-H6:x1	I2_Signalizace ZATVRDNUTY MIXER
+A32.4		=LEP+I2-H7:x1	I2_Signalizace ODBRZDENI
+A32.5		=LEP+I2-X1:19	I2_Signalizace rezerva
+A32.6		=LEP+I2-X1:20	I2_Signalizace rezerva
+A32.7		=LEP+I2-HL1:4	I2_Majak zelena provoz
+A33.0		=LEP+I2-HL1:2	I2_Majak zluta pauza
+A33.1		=LEP+I2-HL1:1	I2_Majak cervena chyba
+A33.2		=LEP+RA1-H1:x1	Panel pumpy 1 Signalizace START
+A33.3		=LEP+RA2-H1:x1	Panel pumpy 2 Signalizace START
+A33.4			
+A33.5			
+A33.6			
+A33.7			
+A34.0		=LEP+RM1-KA1:A1	Lepeni 1 pripraveno
+A34.1		=LEP+RM1-KA2:A1	Lepeni 1 dokonceno
+A34.2		=LEP+RM1-KA3:A1	Lepeni 1 odpousteni mixeru (Pauza)
+A34.3		=LEP+RM1-KA4:A1	Lepeni 1 vymena mixeru
+A34.4		=LEP+RM1-KA5:A1	Lepeni 1 rezerva
+A34.5		=LEP+RM1-KA6:A1	Lepeni 1 rezerva
+A34.6		=LEP+RM1-KA7:A1	Lepeni 1 rezerva
+A34.7		=LEP+RM1-KA8:A1	Lepeni 1 rezerva
+A35.0		=LEP+RM1-KA21:A1	Lepeni 2 pripraveno
+A35.1		=LEP+RM1-KA22:A1	Lepeni 2 dokonceno
+A35.2		=LEP+RM1-KA23:A1	Lepeni 2 odpousteni mixeru (Pauza)
+A35.3		=LEP+RM1-KA24:A1	Lepeni 2 vymena mixeru
+A35.4		=LEP+RM1-KA25:A1	Lepeni 2 rezerva
+A35.5		=LEP+RM1-KA26:A1	Lepeni 2 rezerva
+A35.6		=LEP+RM1-KA27:A1	Lepeni 2 rezerva
+A35.7		=LEP+RM1-KA28:A1	Lepeni 2 rezerva
+A36.0		=LEP+DAVA1-ED1:x1	Davkovac A1 Snimac tlaku 
+A36.1		=LEP+DAVB1-ED1:x1	Davkovac B1 Snimac tlaku 
+A36.2		=LEP+DAVA2-ED1:x1	Davkovac A2 Snimac tlaku 
+A36.3		=LEP+DAVB2-ED1:x1	Davkovac B2 Snimac tlaku 
+A36.4		=LEP+I1-KYP1:x1	Karusel 1 Aplikacni pistole A
+A36.5		=LEP+I1-KYP2:x1	Karusel 1 Aplikacni pistole B
+A36.6		=LEP+I1-KYP3:x1	Karusel 2 Brzda osy X
+A36.7		=LEP+I1-KYP4:x1	Karusel 2 Nadlehcovani a zamykani osy Z
+A37.0		=LEP+I2-KYP5:x1	Karusel 2 Aplikacni pistole A
+A37.1		=LEP+I2-KYP6:x1	Karusel 2 Aplikacni pistole B
+A37.2		=LEP+I2-KYP7:x1	Karusel 2 Brzda osy X
+A37.3		=LEP+I2-KYP8:x1	Karusel 2 Nadlehcovani a zamykani osy Z
+A37.4			
+A37.5			
+A37.6			
+A37.7			
+A38.0			
+A38.1			
+A38.2			
+A38.3			
+A38.4			
+A38.5			
+A38.6			
+A38.7			
+A39.0			
+A39.1			
+A39.2			
+A39.3			
+A39.4			
+A39.5			
+A39.6			
+A39.7			
+A610.0	BOOL		Zastaveni davkovacu
+A610.1	BOOL		Panel pumpy 1 Ventil vzduch do pumpy
+A610.2	BOOL		Panel pumpy 2 Ventil vzduch do pumpy
+A610.3	BOOL		
+E30.0		=LEP+RM1-KM2:22	ZV ES
+E30.1		=LEP+RM1-SEP0:4	ZV Upravna vzduchu
+E30.2		=LEP+RM1-GF1:DQ0	Davkovac A1 GF1_DQ0 Reset
+E30.3		=LEP+RM1-GF1:DQ1	Davkovac A1 GF1_DQ1 Aktivni
+E30.4		=LEP+DAVA1-SD1:4	Davkovac A1 GF1_snimac plno 
+E30.5		=LEP+DAVA1-SD2:4	Davkovac A1 GF1_snimac prazdno 
+E30.6		=LEP+RM1-GF2:DQ0	Davkovac B1 GF2_DQ0 Reset
+E30.7		=LEP+RM1-GF2:DQ1	Davkovac B1 GF2_DQ1 Aktivni
+E31.0		=LEP+DAVB1-SD1:4	Davkovac B1 GF2_snimac plno 
+E31.1		=LEP+DAVB1-SD2:4	Davkovac B1 GF2_snimac prazdno 
+E31.2		=LEP+RM1-GF3:DQ0	Davkovac A2 GF3_DQ0 Reset
+E31.3		=LEP+RM1-GF3:DQ1	Davkovac A2 GF3_DQ1 Aktivni
+E31.4		=LEP+DAVA2-SD1:4	Davkovac A2 GF3_snimac plno 
+E31.5		=LEP+DAVA2-SD2:4	Davkovac A2 GF3_snimac prazdno 
+E31.6		=LEP+RM1-GF4:DQ0	Davkovac B2 GF4_DQ0 Reset
+E31.7		=LEP+RM1-GF4:DQ1	Davkovac B2 GF4_DQ1 Aktivni
+E32.0		=LEP+DAVB2-SD1:4	Davkovac B2 GF4_snimac plno 
+E32.1		=LEP+DAVB2-SD2:4	Davkovac B2 GF4_snimac prazdno 
+E32.2		=LEP+I1-BE3R:4	I1_Koncovy snimac X Odpousteni
+E32.3		=LEP+I1-BE3V:4	I1_Koncovy snimac X Aplikace
+E32.4		=LEP+I1-BE4R:4	I1_Koncovy snimac Z Aplikace
+E32.5		=LEP+I1-BE4V:4	I1_Koncovy snimac Z Odpousteni
+E32.6		=LEP+I1-S1:14	I1_Tlacitko START
+E32.7		=LEP+I1-S2:14	I1_Tlacitko STOP
+E33.0		=LEP+I1-S3:14	I1_Tlacitko PAUZA
+E33.0		=LEP+RM1-KA31:14	Karusel 2 pripraveno
+E33.1		=LEP+I1-S4:14	I1_Tlacitko KONEC PAUZY
+E33.1		=LEP+RM1-KA32:14	Karusel 2 pozice start lepeni
+E33.2		=LEP+I1-SW1:4	I1_Prepinac A
+E33.2		=LEP+RM1-KA33:14	Karusel 2 rezerva
+E33.2		=LEP+I2-S6:4	I2_Tlacitko ODPOUSTENI LEPIDLA
+E33.3		=LEP+I1-SW1:24	I1_Prepinac B
+E33.3		=LEP+RM1-KA34:14	Karusel 2 rezerva
+E33.3		=LEP+I2-S7:14	I2_Tlacitko ODBRZDENI
+E33.4	BOOL	=LEP+I1-S6:4	I1_Tlacitko ODPOUSTENI LEPIDLA
+E33.4	BOOL	=LEP+I2-X1:13	I2_Tlacitko REZERVA
+E33.4	BOOL	=LEP+RM1-KA35:14	Karusel 2 rezerva
+E33.5	BOOL	=LEP+I1-S7:14	I1_Tlacitko ODBRZDENI
+E33.5	BOOL	=LEP+I2-X1:14	I2_Tlacitko REZERVA
+E33.5	BOOL	=LEP+RM1-KA36:14	Karusel 2 rezerva
+E33.6	BOOL	=LEP+RM1-KA37:14	Karusel 2 rezerva
+E33.6	BOOL	=LEP+I1-X1:13	I1_Tlacitko REZERVA
+E33.6	BOOL	=LEP+RM1-K1:11	Snimac hladiny PUMPA 1
+E33.7	BOOL	=LEP+I1-X1:14	I1_Tlacitko REZERVA
+E33.7	BOOL	=LEP+RM1-KA38:14	Karusel 2 rezerva
+E33.7	BOOL	=LEP+RM1-K2:11	Snimac hladiny PUMPA 1
+E34.0	BOOL	=LEP+I2-BE7R:4	I2_Koncovy snimac X Odpousteni
+E34.1	BOOL	=LEP+I2-BE7V:4	I2_Koncovy snimac X Aplikace
+E34.2	BOOL	=LEP+I2-BE8R:4	I2_Koncovy snimac Z Aplikace
+E34.3	BOOL	=LEP+I2-BE8V:4	I2_Koncovy snimac Z Odpousteni
+E34.4	BOOL	=LEP+I2-S1:14	I2_Tlacitko START
+E34.5	BOOL	=LEP+I2-S2:14	I2_Tlacitko STOP
+E34.6	BOOL	=LEP+I2-S3:14	I2_Tlacitko PAUZA
+E34.7	BOOL	=LEP+I2-S4:14	I2_Tlacitko KONEC PAUZY
+E35.0		=LEP+I2-SW1:4	I2_Prepinac A
+E35.1		=LEP+I2-SW1:24	I2_Prepinac B
+E36.0	BOOL	=LEP+RM1-KA11:14	Karusel 1 pripraveno
+E36.1	BOOL	=LEP+RM1-KA12:14	Karusel 1 pozice start lepeni
+E36.2	BOOL	=LEP+RM1-KA13:14	Karusel 1 rezerva
+E36.3	BOOL	=LEP+RM1-KA14:14	Karusel 1 rezerva
+E36.4	BOOL	=LEP+RM1-KA15:14	Karusel 1 rezerva
+E36.5	BOOL	=LEP+RM1-KA16:14	Karusel 1 rezerva
+E36.6	BOOL	=LEP+RM1-KA17:14	Karusel 1 rezerva
+E36.7	BOOL	=LEP+RM1-KA18:14	Karusel 1 rezerva
+E38.0	BOOL	=LEP+RA1-S1:14	Pumpa1 Tlacitko START
+E38.1	BOOL	=LEP+RA1-S2:14	Pumpa 1 Tlacitko STOP
+E38.2	BOOL	=LEP+RA1-S3:4	Pumpa1 Tlacitko ODPOUSTENI LEPIDLA
+E38.3	BOOL	=LEP+RA2-S1:14	Pumpa2 Tlacitko START
+E38.4	BOOL	=LEP+RA2-S2:14	Pumpa 2 Tlacitko STOP
+E38.5	BOOL	=LEP+RA2-S3:4	Pumpa2 Tlacitko ODPOUSTENI LEPIDLA
+E38.6	BOOL	=LEP+RM1-S1:14	Ovladaci obvody
+E38.7	BOOL		
+E39.0	BOOL		
+E39.1	BOOL		
+E39.2	BOOL		
+E39.3	BOOL		
+E39.4	BOOL		
+E39.5	BOOL		
+E39.6	BOOL		
+E39.7	BOOL		
+E600.0	BOOL	=LEP+RM1-ES1:11	Nouzove zastaveni
+E600.1	BOOL		
+E600.2	BOOL		
+E600.3	BOOL		
+E600.4	BOOL	=LEP+RM1-ES1:22	Nouzove zastaveni
+E600.5	BOOL		
+E600.6	BOOL		
+E600.7	BOOL		
+EW940	WORD		
+EW940	WORD		Davkovac A1 Snimac tlaku 
+EW942	WORD		Davkovac B1 Snimac tlaku 
+EW942	WORD		
+EW944	WORD		
+EW944	WORD		Davkovac A2 Snimac tlaku 
+EW946	WORD		Davkovac B2 Snimac tlaku 
+EW946	WORD		
+PEW	WORD		
+PEW	WORD		
+PEW	WORD		
+PEW	WORD		
