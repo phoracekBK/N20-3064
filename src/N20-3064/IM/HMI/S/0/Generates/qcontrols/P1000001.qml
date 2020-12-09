@@ -68,17 +68,17 @@ IGuiPage
 				qm_tableHeaderMarginTop: 1
 				qm_noOfColumns: 2
 				qm_tableHeaderHeight: 21
-				qm_leftImageID: 20
+				qm_leftImageID: 27
 				qm_leftTileTop: 4
 				qm_leftTileBottom: 15
 				qm_leftTileRight: 2
 				qm_leftTileLeft: 4
-				qm_middleImageID: 21
+				qm_middleImageID: 28
 				qm_middleTileTop: 2
 				qm_middleTileBottom: 15
 				qm_middleTileRight: 2
 				qm_middleTileLeft: 2
-				qm_rightImageID: 22
+				qm_rightImageID: 29
 				qm_rightTileTop: 4
 				qm_rightTileBottom: 15
 				qm_rightTileRight: 4
@@ -101,7 +101,7 @@ IGuiPage
 		width: 250
 		height: 50
 		qm_BorderWidth: 1
-		qm_ImageSource: "image://QSmartImageProvider/23#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/30#2#4#128#0#0"
 		qm_Border.top: 15
 		qm_Border.bottom: 15
 		qm_Border.right: 2
