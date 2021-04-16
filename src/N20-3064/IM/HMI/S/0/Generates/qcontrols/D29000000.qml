@@ -28,8 +28,8 @@ IGuiDialogView
 	IGuiModality{ }
 	IGuiTextField
 	{
-		id: q268435957
-		objId: 268435957
+		id: q268435956
+		objId: 268435956
 		x: 92
 		y: 103
 		width: 100
@@ -47,8 +47,8 @@ IGuiDialogView
 	}
 	IGuiIOField
 	{
-		id: q33554670
-		objId: 33554670
+		id: q33554667
+		objId: 33554667
 		x: 200
 		y: 103
 		width: 264
@@ -68,8 +68,8 @@ IGuiDialogView
 	}
 	IGuiTextField
 	{
-		id: q268435958
-		objId: 268435958
+		id: q268435957
+		objId: 268435957
 		x: 92
 		y: 137
 		width: 100
@@ -87,8 +87,8 @@ IGuiDialogView
 	}
 	IGuiIOField
 	{
-		id: q33554671
-		objId: 33554671
+		id: q33554668
+		objId: 33554668
 		x: 200
 		y: 137
 		width: 264

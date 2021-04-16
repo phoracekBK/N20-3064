@@ -41,8 +41,8 @@ IGuiTemplate
 	}
 	IGuiIOField
 	{
-		id: q33554626
-		objId: 33554626
+		id: q33554627
+		objId: 33554627
 		x: 700
 		y: 120
 		width: 100
@@ -108,8 +108,8 @@ IGuiTemplate
 	}
 	IGuiTextField
 	{
-		id: q268435876
-		objId: 268435876
+		id: q268435879
+		objId: 268435879
 		x: 600
 		y: 120
 		width: 100
@@ -127,8 +127,8 @@ IGuiTemplate
 	}
 	IGuiTextField
 	{
-		id: q268435877
-		objId: 268435877
+		id: q268435880
+		objId: 268435880
 		x: 145
 		y: 0
 		width: 510
@@ -170,8 +170,8 @@ IGuiTemplate
 	}
 	IGuiTextField
 	{
-		id: q268435878
-		objId: 268435878
+		id: q268435881
+		objId: 268435881
 		x: 600
 		y: 198
 		width: 200
@@ -194,8 +194,8 @@ IGuiTemplate
 	}
 	IGuiTextField
 	{
-		id: q268435879
-		objId: 268435879
+		id: q268435882
+		objId: 268435882
 		x: 600
 		y: 150
 		width: 200
@@ -307,8 +307,8 @@ IGuiTemplate
 	}
 	IGuiTextField
 	{
-		id: q268435880
-		objId: 268435880
+		id: q268435883
+		objId: 268435883
 		x: 600
 		y: 174
 		width: 200
@@ -356,8 +356,8 @@ IGuiTemplate
 	}
 	IGuiIOField
 	{
-		id: q33554627
-		objId: 33554627
+		id: q33554628
+		objId: 33554628
 		x: 145
 		y: 0
 		width: 146
@@ -379,8 +379,8 @@ IGuiTemplate
 	}
 	IGuiTextField
 	{
-		id: q268435881
-		objId: 268435881
+		id: q268435884
+		objId: 268435884
 		x: 600
 		y: 222
 		width: 200

@@ -10,8 +10,8 @@ IGuiPage
 	height: 480
 	IGuiTextField
 	{
-		id: q268435565
-		objId: 268435565
+		id: q268435566
+		objId: 268435566
 		x: 195
 		y: 41
 		width: 410
@@ -141,32 +141,9 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435566
-		objId: 268435566
-		x: 200
-		y: 199
-		width: 25
-		height: 15
-		qm_BorderWidth: 1
-		qm_ImageSource: "image://QSmartImageProvider/33#2#4#128#0#0"
-		qm_Border.top: 2
-		qm_Border.bottom: 2
-		qm_Border.right: 2
-		qm_Border.left: 2
-		qm_FillColor: "#ffffffff"
-		qm_TextColor: "#ff31344a"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_Anchors.bottomMargin: 3
-		qm_Anchors.leftMargin: 4
-		qm_Anchors.rightMargin: 3
-		qm_Anchors.topMargin: 3
-	}
-	IGuiTextField
-	{
 		id: q268435567
 		objId: 268435567
-		x: 296
+		x: 200
 		y: 199
 		width: 25
 		height: 15
@@ -189,24 +166,31 @@ IGuiPage
 	{
 		id: q268435568
 		objId: 268435568
-		x: 432
-		y: 95
-		width: 120
-		height: 20
-		qm_Transparent : true 
+		x: 296
+		y: 199
+		width: 25
+		height: 15
+		qm_BorderWidth: 1
+		qm_ImageSource: "image://QSmartImageProvider/33#2#4#128#0#0"
+		qm_Border.top: 2
+		qm_Border.bottom: 2
+		qm_Border.right: 2
+		qm_Border.left: 2
+		qm_FillColor: "#ffffffff"
 		qm_TextColor: "#ff31344a"
+		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
 		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_Anchors.bottomMargin: 2
-		qm_Anchors.leftMargin: 3
-		qm_Anchors.rightMargin: 2
-		qm_Anchors.topMargin: 2
+		qm_Anchors.bottomMargin: 3
+		qm_Anchors.leftMargin: 4
+		qm_Anchors.rightMargin: 3
+		qm_Anchors.topMargin: 3
 	}
 	IGuiTextField
 	{
 		id: q268435569
 		objId: 268435569
 		x: 432
-		y: 115
+		y: 95
 		width: 120
 		height: 20
 		qm_Transparent : true 
@@ -222,7 +206,7 @@ IGuiPage
 		id: q268435570
 		objId: 268435570
 		x: 432
-		y: 135
+		y: 115
 		width: 120
 		height: 20
 		qm_Transparent : true 
@@ -237,6 +221,22 @@ IGuiPage
 	{
 		id: q268435571
 		objId: 268435571
+		x: 432
+		y: 135
+		width: 120
+		height: 20
+		qm_Transparent : true 
+		qm_TextColor: "#ff31344a"
+		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_Anchors.bottomMargin: 2
+		qm_Anchors.leftMargin: 3
+		qm_Anchors.rightMargin: 2
+		qm_Anchors.topMargin: 2
+	}
+	IGuiTextField
+	{
+		id: q268435572
+		objId: 268435572
 		x: 10
 		y: 70
 		width: 80
@@ -276,8 +276,8 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435572
-		objId: 268435572
+		id: q268435573
+		objId: 268435573
 		x: 90
 		y: 70
 		width: 80
@@ -317,8 +317,8 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435573
-		objId: 268435573
+		id: q268435574
+		objId: 268435574
 		x: 443
 		y: 305
 		width: 100
@@ -436,8 +436,8 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435574
-		objId: 268435574
+		id: q268435575
+		objId: 268435575
 		x: 378
 		y: 375
 		width: 200
@@ -453,8 +453,8 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435575
-		objId: 268435575
+		id: q268435576
+		objId: 268435576
 		x: 205
 		y: 115
 		width: 75
@@ -469,8 +469,8 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435576
-		objId: 268435576
+		id: q268435577
+		objId: 268435577
 		x: 205
 		y: 135
 		width: 75
@@ -533,8 +533,8 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435577
-		objId: 268435577
+		id: q268435578
+		objId: 268435578
 		x: 360
 		y: 135
 		width: 30
@@ -549,8 +549,8 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435578
-		objId: 268435578
+		id: q268435579
+		objId: 268435579
 		x: 50
 		y: 135
 		width: 50
@@ -589,8 +589,8 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435579
-		objId: 268435579
+		id: q268435580
+		objId: 268435580
 		x: 160
 		y: 135
 		width: 30
@@ -647,8 +647,8 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435580
-		objId: 268435580
+		id: q268435581
+		objId: 268435581
 		x: 33
 		y: 395
 		width: 180
@@ -687,8 +687,8 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435581
-		objId: 268435581
+		id: q268435582
+		objId: 268435582
 		x: 304
 		y: 395
 		width: 43
@@ -703,8 +703,8 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435582
-		objId: 268435582
+		id: q268435583
+		objId: 268435583
 		x: 33
 		y: 330
 		width: 220
@@ -719,8 +719,8 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435583
-		objId: 268435583
+		id: q268435584
+		objId: 268435584
 		x: 33
 		y: 310
 		width: 220
@@ -783,8 +783,8 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435584
-		objId: 268435584
+		id: q268435585
+		objId: 268435585
 		x: 304
 		y: 310
 		width: 30
@@ -799,8 +799,8 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435585
-		objId: 268435585
+		id: q268435586
+		objId: 268435586
 		x: 304
 		y: 330
 		width: 30
@@ -815,8 +815,8 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435586
-		objId: 268435586
+		id: q268435587
+		objId: 268435587
 		x: 33
 		y: 350
 		width: 220
@@ -855,8 +855,8 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435587
-		objId: 268435587
+		id: q268435588
+		objId: 268435588
 		x: 304
 		y: 350
 		width: 30
@@ -871,8 +871,8 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435588
-		objId: 268435588
+		id: q268435589
+		objId: 268435589
 		x: 33
 		y: 415
 		width: 150
@@ -911,8 +911,8 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435589
-		objId: 268435589
+		id: q268435590
+		objId: 268435590
 		x: 304
 		y: 415
 		width: 43
